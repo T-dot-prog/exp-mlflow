@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/198901936389755012/9e8ea45781164072a4d5cad25037f011/artifacts
+end_time: 1749741310420
+entry_point_name: ''
+experiment_id: '198901936389755012'
+lifecycle_stage: active
+run_id: 9e8ea45781164072a4d5cad25037f011
+run_name: skillful-foal-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749741298896
+status: 3
+tags: []
+user_id: USER

@@ -1,4 +1,4 @@
-
+#%%
 import mlflow
 from sklearn.datasets import load_wine
 from sklearn.ensemble import RandomForestClassifier
@@ -56,3 +56,4 @@ with mlflow.start_run(experiment_id= 198901936389755012):
 
     
     
+# %%

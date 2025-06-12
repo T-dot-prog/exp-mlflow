@@ -1,4 +1,4 @@
-
+#%%
 import mlflow
 from sklearn.datasets import load_wine
 from sklearn.ensemble import RandomForestClassifier
@@ -11,6 +11,7 @@ import seaborn as sns
 mlflow.set_tracking_uri('http://localhost:5000')
 
 # load the data
+#%%
 wine = load_wine()
 
 # distribute to X and y 
@@ -56,3 +57,4 @@ with mlflow.start_run(experiment_id= 198901936389755012):
 
     
     
+# %%
