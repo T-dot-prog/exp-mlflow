@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/198901936389755012/8fdc328e4a1c41248c923ec8a8c99c7a/artifacts
+end_time: 1749718680212
+entry_point_name: ''
+experiment_id: '198901936389755012'
+lifecycle_stage: active
+run_id: 8fdc328e4a1c41248c923ec8a8c99c7a
+run_name: capable-fly-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749718677691
+status: 3
+tags: []
+user_id: USER
