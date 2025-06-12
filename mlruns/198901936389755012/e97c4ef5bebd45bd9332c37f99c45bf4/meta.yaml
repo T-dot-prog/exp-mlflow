@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/198901936389755012/e97c4ef5bebd45bd9332c37f99c45bf4/artifacts
+end_time: 1749744263230
+entry_point_name: ''
+experiment_id: '198901936389755012'
+lifecycle_stage: active
+run_id: e97c4ef5bebd45bd9332c37f99c45bf4
+run_name: trusting-penguin-410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749744250262
+status: 3
+tags: []
+user_id: USER
