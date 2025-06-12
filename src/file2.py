@@ -8,7 +8,8 @@ import os
 
 # Set your DAGsHub credentials
 os.environ['MLFLOW_TRACKING_USERNAME'] = 'T-dot-prog' 
-os.environ['MLFLOW_TRACKING_PASSWORD'] = '1ee33c16bb54a7f0a5aefc523277430895b24f83'  
+os.environ['MLFLOW_TRACKING_PASSWORD'] = '1ee33c16bb54a7f0a5aefc523277430895b24f83' 
+os.environ['MLFLOW_TRACKING_URI'] = 'https://dagshub.com/T-dot-prog/mlflow.mlflow' 
 
 # Initialize DAGsHub
 import dagshub
