@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/316207452903625165/5b9ddcba48d04c789b27ed7e45549a9f/artifacts
+deleted_time: 1749882936380
+end_time: 1749882866982
+entry_point_name: ''
+experiment_id: '316207452903625165'
+lifecycle_stage: deleted
+run_id: 5b9ddcba48d04c789b27ed7e45549a9f
+run_name: whimsical-trout-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749882851968
+status: 4
+tags: []
+user_id: USER

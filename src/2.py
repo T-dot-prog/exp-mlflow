@@ -42,12 +42,6 @@ with mlflow.start_run():
     mlflow.log_param('max_depth', max_depth)
     mlflow.log_param('n_estimators', n_estimators)
 
-    # Save the model using joblib
-    model_path = 'E:/mlflow/models/model.joblib'
-    joblib.dump(rf, model_path)
+    mlflow.log_artifact('E:/mlflow/models/model.joblib')
     
-    # Log the model artifact
-    mlflow.log_artifact(model_path)
-    
-    # Log the model to MLflow
-    mlflow.sklearn.log_model(rf, "Random-Forest-Model")
+    print('successfully loges into the server')
