@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlflow/mlruns/788340242454272117/9548526a10324f0a95016c83ea1be472/artifacts
+deleted_time: 1749891042053
+end_time: 1749888426435
+entry_point_name: ''
+experiment_id: '788340242454272117'
+lifecycle_stage: deleted
+run_id: 9548526a10324f0a95016c83ea1be472
+run_name: invincible-donkey-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749888425824
+status: 3
+tags: []
+user_id: USER

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/4ae7b540ba804894af86ece9a8b0a4aa/artifacts
+deleted_time: 1749893089943
+end_time: 1749892982446
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: deleted
+run_id: 4ae7b540ba804894af86ece9a8b0a4aa
+run_name: illustrious-ray-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749892982256
+status: 3
+tags: []
+user_id: USER

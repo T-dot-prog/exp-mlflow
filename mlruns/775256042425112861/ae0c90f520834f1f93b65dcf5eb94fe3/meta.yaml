@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/ae0c90f520834f1f93b65dcf5eb94fe3/artifacts
+deleted_time: 1749893089936
+end_time: 1749892983111
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: deleted
+run_id: ae0c90f520834f1f93b65dcf5eb94fe3
+run_name: gregarious-mare-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749892982626
+status: 3
+tags: []
+user_id: USER

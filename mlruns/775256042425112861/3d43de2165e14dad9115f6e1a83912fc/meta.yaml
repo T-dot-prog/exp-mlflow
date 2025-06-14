@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/3d43de2165e14dad9115f6e1a83912fc/artifacts
+deleted_time: 1749894921781
+end_time: 1749894896127
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: deleted
+run_id: 3d43de2165e14dad9115f6e1a83912fc
+run_name: gregarious-elk-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749894845302
+status: 4
+tags: []
+user_id: USER

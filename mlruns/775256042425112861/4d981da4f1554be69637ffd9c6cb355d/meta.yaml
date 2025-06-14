@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/4d981da4f1554be69637ffd9c6cb355d/artifacts
+deleted_time: 1749893473670
+end_time: 1749893171026
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: deleted
+run_id: 4d981da4f1554be69637ffd9c6cb355d
+run_name: crawling-finch-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749893170678
+status: 3
+tags: []
+user_id: USER

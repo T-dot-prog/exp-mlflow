@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/3db68ed00f7b4bf88c867d47ca9d9161/artifacts
+deleted_time: 1749893089943
+end_time: 1749892982186
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: deleted
+run_id: 3db68ed00f7b4bf88c867d47ca9d9161
+run_name: likeable-fish-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749892981951
+status: 3
+tags: []
+user_id: USER

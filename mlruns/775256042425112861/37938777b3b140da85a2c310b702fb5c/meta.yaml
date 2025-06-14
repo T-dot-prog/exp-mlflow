@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/37938777b3b140da85a2c310b702fb5c/artifacts
+deleted_time: 1749893473726
+end_time: 1749893169423
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: deleted
+run_id: 37938777b3b140da85a2c310b702fb5c
+run_name: wistful-lamb-913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749893169245
+status: 3
+tags: []
+user_id: USER

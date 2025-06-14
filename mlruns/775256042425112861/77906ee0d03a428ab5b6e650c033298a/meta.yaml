@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/77906ee0d03a428ab5b6e650c033298a/artifacts
+deleted_time: 1749893089907
+end_time: 1749893013193
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: deleted
+run_id: 77906ee0d03a428ab5b6e650c033298a
+run_name: youthful-wren-583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749892952880
+status: 3
+tags: []
+user_id: USER

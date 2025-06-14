@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/316207452903625165/2bb4306135914f8cbd9ff55942da01bf/artifacts
+deleted_time: 1749890618980
+end_time: 1749882920605
+entry_point_name: ''
+experiment_id: '316207452903625165'
+lifecycle_stage: deleted
+run_id: 2bb4306135914f8cbd9ff55942da01bf
+run_name: sneaky-shrew-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749882906164
+status: 3
+tags: []
+user_id: USER

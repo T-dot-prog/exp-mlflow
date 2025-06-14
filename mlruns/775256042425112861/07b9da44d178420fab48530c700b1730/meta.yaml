@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/07b9da44d178420fab48530c700b1730/artifacts
+deleted_time: 1749893473716
+end_time: 1749893169163
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: deleted
+run_id: 07b9da44d178420fab48530c700b1730
+run_name: overjoyed-zebra-691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749893168890
+status: 3
+tags: []
+user_id: USER

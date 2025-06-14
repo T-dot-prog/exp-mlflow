@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlflow/mlruns/788340242454272117/0d6b6d1db53b4022a85e40c3f3bc6de9/artifacts
+deleted_time: 1749888344748
+end_time: 1749888259453
+entry_point_name: ''
+experiment_id: '788340242454272117'
+lifecycle_stage: deleted
+run_id: 0d6b6d1db53b4022a85e40c3f3bc6de9
+run_name: chill-crow-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749888259341
+status: 3
+tags: []
+user_id: USER

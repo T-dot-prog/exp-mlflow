@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/1d0b8158022d48aa8b5329fd21583301/artifacts
+deleted_time: 1749892896938
+end_time: 1749891429338
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: deleted
+run_id: 1d0b8158022d48aa8b5329fd21583301
+run_name: smiling-mouse-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749891429079
+status: 3
+tags: []
+user_id: USER

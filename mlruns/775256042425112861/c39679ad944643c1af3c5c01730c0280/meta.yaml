@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/c39679ad944643c1af3c5c01730c0280/artifacts
+deleted_time: 1749893473712
+end_time: 1749893170313
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: deleted
+run_id: c39679ad944643c1af3c5c01730c0280
+run_name: chill-hawk-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749893170118
+status: 3
+tags: []
+user_id: USER

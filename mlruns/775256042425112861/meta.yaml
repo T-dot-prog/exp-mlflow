@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/775256042425112861
+creation_time: 1749891400123
+experiment_id: '775256042425112861'
+last_update_time: 1749891400123
+lifecycle_stage: active
+name: breat_cancer_experiment

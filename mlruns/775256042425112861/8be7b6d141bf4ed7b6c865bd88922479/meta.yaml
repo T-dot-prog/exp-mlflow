@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/8be7b6d141bf4ed7b6c865bd88922479/artifacts
+deleted_time: 1749893089949
+end_time: 1749892981849
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: deleted
+run_id: 8be7b6d141bf4ed7b6c865bd88922479
+run_name: bright-kite-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749892981518
+status: 3
+tags: []
+user_id: USER

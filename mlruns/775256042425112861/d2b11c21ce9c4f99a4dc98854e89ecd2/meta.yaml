@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/d2b11c21ce9c4f99a4dc98854e89ecd2/artifacts
+deleted_time: 1749893089926
+end_time: 1749892983372
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: deleted
+run_id: d2b11c21ce9c4f99a4dc98854e89ecd2
+run_name: brawny-ox-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749892983209
+status: 3
+tags: []
+user_id: USER

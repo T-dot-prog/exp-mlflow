@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/c8bba5453da14d539336db6ba6b050ad/artifacts
+end_time: 1749894625434
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: active
+run_id: c8bba5453da14d539336db6ba6b050ad
+run_name: welcoming-elk-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749894579946
+status: 3
+tags: []
+user_id: USER

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/98e9e3e4388240c99c8b57ceaf4fea84/artifacts
+deleted_time: 1749893089905
+end_time: 1749892984225
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: deleted
+run_id: 98e9e3e4388240c99c8b57ceaf4fea84
+run_name: gregarious-dog-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749892984000
+status: 3
+tags: []
+user_id: USER

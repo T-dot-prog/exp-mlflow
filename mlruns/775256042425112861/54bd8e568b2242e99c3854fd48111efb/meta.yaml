@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/54bd8e568b2242e99c3854fd48111efb/artifacts
+deleted_time: 1749893089956
+end_time: 1749892981413
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: deleted
+run_id: 54bd8e568b2242e99c3854fd48111efb
+run_name: sassy-fish-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749892981169
+status: 3
+tags: []
+user_id: USER

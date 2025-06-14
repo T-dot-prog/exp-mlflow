@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/3a7cee9a9fb942918c091b086ec5fbac/artifacts
+deleted_time: 1749893089908
+end_time: 1749892983640
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: deleted
+run_id: 3a7cee9a9fb942918c091b086ec5fbac
+run_name: amazing-penguin-82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749892983444
+status: 3
+tags: []
+user_id: USER

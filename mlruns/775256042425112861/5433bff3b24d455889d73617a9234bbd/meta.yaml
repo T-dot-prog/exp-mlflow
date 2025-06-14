@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/5433bff3b24d455889d73617a9234bbd/artifacts
+deleted_time: 1749892896969
+end_time: 1749891428985
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: deleted
+run_id: 5433bff3b24d455889d73617a9234bbd
+run_name: silent-midge-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749891428707
+status: 3
+tags: []
+user_id: USER

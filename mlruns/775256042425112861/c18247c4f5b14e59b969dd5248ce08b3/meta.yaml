@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/c18247c4f5b14e59b969dd5248ce08b3/artifacts
+deleted_time: 1749893473695
+end_time: 1749893170615
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: deleted
+run_id: c18247c4f5b14e59b969dd5248ce08b3
+run_name: grandiose-doe-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749893170396
+status: 3
+tags: []
+user_id: USER

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/775256042425112861/ea4fd7046b31478ebf28ba8c2f83e720/artifacts
+deleted_time: 1749892896926
+end_time: 1749891430311
+entry_point_name: ''
+experiment_id: '775256042425112861'
+lifecycle_stage: deleted
+run_id: ea4fd7046b31478ebf28ba8c2f83e720
+run_name: omniscient-shoat-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749891430095
+status: 3
+tags: []
+user_id: USER

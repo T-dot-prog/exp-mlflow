@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlflow/mlruns/788340242454272117/90228b2069754567941ab54edfe6d3c3/artifacts
+deleted_time: 1749888318358
+end_time: 1749888280329
+entry_point_name: ''
+experiment_id: '788340242454272117'
+lifecycle_stage: deleted
+run_id: 90228b2069754567941ab54edfe6d3c3
+run_name: resilient-skunk-731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749888231489
+status: 3
+tags: []
+user_id: USER
